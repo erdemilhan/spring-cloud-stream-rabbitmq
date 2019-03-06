@@ -1,16 +1,16 @@
 
-# Introduction
+# Introduction
 
 A simple cloud stream example with rabbitmq (implementing codebase described in https://springbootdev.com/2018/07/29/message-driven-microservices-with-spring-cloud-stream-and-rabbitmq-publish-and-subscribe-messages-part-1/)
 
 
-# Preconditions
+# Preconditions
 
 Start your Rabbit server before running the code samples here
 Rabbit admin console: http://localhost:15672/
 Login with guest, guest credentials
 
-# How to execute
+# How to execute
 
 Run subscriber project with:
 mvn spring-boot:run
